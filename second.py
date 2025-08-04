@@ -334,11 +334,115 @@
 
 # print(a[])
 
-a =["apple", "banana", "carrot"]  # list are changeable 
+# a =["apple", "banana", "carrot"]  # list are changeable 
 
 
-a[0] = "mango"
-print(a)
+# a[0] = "mango"
+# print(a)
+
+
+# what is indentation
+
+
+# a=23
+# b=12
+
+
+# if a >b:
+#     print("a is greater than b")
+
+
+
+# exercise
+# a = float(input("enter first number:")) 
+# b = float(input("enter second number:"))
+# c = float(input("enter third number:"))
+
+# if a>b and a>c:
+#     print("a is greater than b and c")
+
+# elif b>a and b>c:
+#     print("b is greater than a and c")
+
+# else:
+#     print(" c is greater than a and b ") 
+
+#while loop:
+# i= 0
+# while i <=6:
+#     print(i)
+#     i+=2
+
+
+
+# a = 0
+# while a <= 6:
+
+#     print(a)
+
+#     a+= 1 # increment oeprator  +=
+
+
+
+# i=2
+# while i <7:
+#     print(i)
+    # if i miss to write increment here the code will run forever its bad for pc
+
+i = 1
+while i<10:
+    print(i)
+    if i == 4:
+        break
+    
+    i+=1
+
+
+
+
+
+
+
+
+
+  
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
